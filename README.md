@@ -143,6 +143,12 @@ export S3_BUCKET_NAME=your-bucket-name
 
 Enable debug logging: `export LOG_LEVEL=DEBUG`
 
+🚀 Live Demo
+
+Try the application here:
+
+[https://customer-churn-prediction-shankhadeep04.streamlit.app/](https://customer-churn-prediction-shankhadeep04.streamlit.app/)
+
 ## Documentation
 
 - `problem_formulation.md` — Business problem definition
